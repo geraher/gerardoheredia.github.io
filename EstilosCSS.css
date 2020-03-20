@@ -1,0 +1,27 @@
+.CVGreen {
+	color: #009CA2;
+	font-family: "Myriad Pro";
+}
+.ParrafoM {
+	font-family: "Myriad Pro";
+	font-size: 18px;
+	list-style-type: circle;
+	font-weight: normal;
+}
+.Header2 {
+	font-family: "Myriad Pro";
+	font-size: 24px;
+	background-color: #666;
+	height: auto;
+	width: 300px;
+	color: #FFF;
+}
+.Header3 {
+	font-family: "Myriad Pro";
+	font-size: 18px;
+	font-weight: bold;
+	color: #666;
+}
+.Header3gr {
+	color: #009CA2;
+}
